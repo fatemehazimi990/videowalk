@@ -11,7 +11,7 @@ This work is to be presented at NeurIPS 2020. Here's the [project page](http://a
 
 > **NOTE**: Part of this code is still subject to a few more cleaning updates -- I am still wrapping up sanity checks after refactoring and fixing a bug. For more details, please see [this](#fixed-a-bug). I just wanted to share the code before the CVPR deadline, in case anyone would like to use the code for evaluation and fair comparison.
 
-##  Requirements
+##  Requirement
 - pytorch (>1.3)
 - torchvision (0.6.0)
 - cv2
